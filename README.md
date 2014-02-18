@@ -1,4 +1,4 @@
-# my-homebrew-cask
+# mycask
 
 Here you'll find my versions of Casks for the [homebrew-cask](https://github.com/phinze/homebrew-cask)
 project.
@@ -8,7 +8,7 @@ project.
 After you install homebrew-cask, run the following command:
 
 ```sh
-$ brew tap sonots/mycask
+$ brew tap komagata/mycask
 ```
 
 You can now install alternate versions of Casks.
